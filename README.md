@@ -1,4 +1,7 @@
 ## Hi, I'm Pedro Pedro 🍀
+
+Currently working on SGI project 🤞
+
 <div>
   <a href="https://github.com/ppedro20">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ppedro20&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
