@@ -1,4 +1,4 @@
-## Hi, I'm Pedro Pedro 🍀
+## Hi, I'm Pedro Pedro 🌊
 
 <div align="center">
   <a href="https://github.com/ppedro20">
