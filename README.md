@@ -5,13 +5,7 @@
 
 ###
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ppedro20/count.svg?"  />
-</div>
-
-###
 
 
 
