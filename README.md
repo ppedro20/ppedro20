@@ -1,12 +1,10 @@
 ## 👨‍💻 About Me
 
-I'm a  **AI/Data Engineer** with a specialized focus on **Sports Analytics**. 
+I'm a **AI/Data Engineer** with a specialized focus on **Sports Analytics**. 
 
 ## 🌐 Portfolio
 
 **[Visit My Portfolio](https://ppedrodevportfolio.vercel.app/)** ✨
-
-Check out my latest projects, skills, and professional experience at my portfolio website.
 
 ## 📊 GitHub Stats
 
@@ -28,9 +26,6 @@ Check out my latest projects, skills, and professional experience at my portfoli
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ppedro20&style=flat-square&color=blue" alt="Profile Views" />
-</div>
 
 
 
