@@ -2,10 +2,6 @@
 
 I'm a **AI/Data Engineer** with a specialized focus on **Sports Analytics**. 
 
-## 🌐 Portfolio
-
-**[Visit My Portfolio](https://ppedrodevportfolio.vercel.app/)** ✨
-
 ## 📊 GitHub Stats
 
 <div align="center">
