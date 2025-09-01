@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm a **AI/Data Engineer** with a specialized focus on **Sports Analytics**. 
+**Data Analyst/Engineer**. 
 
 ## 📊 GitHub Stats
 
