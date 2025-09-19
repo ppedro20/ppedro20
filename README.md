@@ -1,6 +1,7 @@
 ## 👨‍💻 About Me
 
-**Data Analyst/Engineer**. 
+**Data Analyst/Engineer**.
+Currently studying Pyspark and Databricks
 
 ## 📊 GitHub Stats
 
