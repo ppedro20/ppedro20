@@ -1,7 +1,6 @@
 ## 👨‍💻 About Me
-
-**Data Analyst/Engineer**.
-Currently studying Pyspark and Databricks
+**Master’s Degree in Data Science at the Polytechnic Institute of Leiria.**
+Studying PySpark and Databricks.
 
 ## 📊 GitHub Stats
 
