@@ -1,6 +1,5 @@
 ## 👨‍💻 About Me
 **Master’s Degree in Data Science at the Polytechnic Institute of Leiria.**
-Studying PySpark and Databricks.
 
 ## 📊 GitHub Stats
 
