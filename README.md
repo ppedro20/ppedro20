@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 **Software Engineer at Barrinho Transportes.** 
 
-**Taking a Master’s Degree in Data Science at the Polytechnic Institute of Leiria.**
+**Master’s student in Data Science at the Polytechnic Institute of Leiria.**
 
 ## 🔗 Connect With Me
 
