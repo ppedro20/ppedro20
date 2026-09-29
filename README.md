@@ -1,4 +1,6 @@
 ## 👨‍💻 About Me
+**Currently studying post-training quantization to optimize Machine Learning models.** 
+
 **Software Engineer at Barrinho Transportes.** 
 
 **Master’s student in Data Science at the University of Leiria and West.**
